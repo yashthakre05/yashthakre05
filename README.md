@@ -26,7 +26,7 @@ A modern personal portfolio website showcasing my skills, projects, and professi
 A practical task management application with task creation, editing, due dates, priorities, search, filtering, and local storage.
 
 🔗 Live Demo: "View To-Do List" (https://yashthakre05.github.io/smart-todo-list/)
-🔗 Source Code: "GitHub Repository" (https://github.com/yashthakre05/PayrollPro.git)
+🔗 Source Code: "GitHub Repository" (https://github.com/yashthakre05/smart-todo-list.git)
 
 💼 PayrollPro
 
